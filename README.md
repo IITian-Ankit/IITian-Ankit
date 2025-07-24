@@ -8,9 +8,6 @@
 - Areas of Interest: RTL Design, FPGA Development, Microcontrollers, Low-level System Design
 
 ## 🚀 Projects
-- 🛰️ **LiDAR-Based Drone for Archaeological Surveys** *(Ongoing)*  
-  Currently developing a drone system that integrates **LiDAR technology** to aid in archaeological site mapping and terrain analysis—merging real-time data.
-
 - 🧠 **RISC-V Processor Core**  
   Built both **single-cycle** and **pipelined** versions of a **RISC-V processor**, gaining a deeper understanding of instruction set architecture, datapath design, and performance optimization.
 
