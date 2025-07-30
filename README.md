@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IITian-Ankit
+- 👋 Hi, I’m @Ankit
 
-🎓 I'm an Electrical Engineering student at IIT goa with a strong interest in **VLSI Design** and **Embedded Systems**. I’m passionate about blending hardware and software to build smart, efficient systems that solve real-world problems.
+🎓 I'm a third year Electrical Engineering student at IIT goa with a strong interest in **VLSI Design** and **Embedded Systems**. I’m passionate about blending hardware and software to build smart, efficient systems that solve real-world problems.
 
 ## 🛠️ Skills
 - Languages: Verilog, VHDL, Python, C++
@@ -28,4 +28,4 @@ I'm always open to collaboration, feedback, and connecting with others who are p
 
 📫 How to reach me: 
 Mail - ankit.ghanshyam.23042@iitgoa.ac.in
-Linkedin - https://www.linkedin.com/in/ankit-choudhary-594549296/
+Linkedin - https://www.linkedin.com/in/ankit310/
